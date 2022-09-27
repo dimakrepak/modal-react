@@ -1,8 +1,7 @@
 {
-
-  "name": "modal-react",
+  "name": "react-modal-2.0",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -47,11 +46,15 @@
     "type": "git",
     "url": "https://github.com/dimakrepak/modal-react"
   },
+  "bugs": {
+    "url": "https://github.com/dimakrepak/modal-react/issues"
+  },
   "author": "Dima Krepak",
   "keywords": [
     "react-modal",
     "dialog",
     "modal",
     "react-dialog"
-  ]
+  ],
+  "license": "MIT"
 }
