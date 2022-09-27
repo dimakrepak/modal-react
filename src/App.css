@@ -5,9 +5,15 @@
   text-align: center;
 }
 .check {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 500px;
   height: 500px;
+  border-radius: 10px;
   background-color: aliceblue;
+  font-size: 40px;
+  color: black;
 }
 .dd {
   width: 100px;
