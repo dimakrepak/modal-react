@@ -1,6 +1,7 @@
 {
-  "name": "react-dialog",
-  "private": true,
+
+  "name": "modal-react",
+  "private": false,
   "version": "0.0.1",
   "type": "module",
   "scripts": {
@@ -41,5 +42,16 @@
     "vite-plugin-dts": "^1.5.0",
     "vite-plugin-linter": "^1.2.0",
     "vite-tsconfig-paths": "^3.5.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimakrepak/modal-react"
+  },
+  "author": "Dima Krepak",
+  "keywords": [
+    "react-modal",
+    "dialog",
+    "modal",
+    "react-dialog"
+  ]
 }
